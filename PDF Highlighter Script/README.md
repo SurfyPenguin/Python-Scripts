@@ -22,7 +22,7 @@ options:
 ```
 ## Examples
 ```bash
-python3 main.py -i input.pdf -k python code script -o highlighted.pdf
+python3 pdf_highlight.py -i input.pdf -k python code script -o highlighted.pdf
 
-python3 main.py -i input.pdf -k Python -s -o output.pdf  # case-sensitive
+python3 pdf_highlight.py -i input.pdf -k Python -s -o output.pdf  # case-sensitive
 ```
